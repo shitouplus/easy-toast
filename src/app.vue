@@ -44,7 +44,7 @@
     data() {
       return {
         show: false,
-        duration: 2000,
+        duration: 0,
         children: null
       }
     },
