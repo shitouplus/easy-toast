@@ -1,0 +1,10 @@
+{
+  "name": "easy-toast",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vue serve src/index.js",
+    "build": "vue build -t lib -n EasyVideoPlayer -d dist src/index.js"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
